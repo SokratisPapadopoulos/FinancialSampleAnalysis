@@ -4,13 +4,13 @@
 
 ## 📝 Project Task
 
-Inspired by the past Football World Cup of 2022, I wanted a challenge to take my data prep skills and apply them to a relative database, then use the resulting cleansed and transformed data to make a Tableau dashboard to present.
+Create an advanced, dynamic and interactive Dashboard using Power BI.
 
 I also wrote a user story to structure my project with, which was:
 
-**As a**… Data Analyst;    **I want** … to give meaningfull insights from this database by answering certain questions and visualize them through Tableau;    **So I can**… practice and demonstrate my skills.
+**As a**… Reporting Analyst;    **I want** … to give meaningful insights with great visuals from this database by creating a Financial Dashboard with Profit Analysis using solely Power BI;    **So I can**… practice and demonstrate my skills.
 
-**NOTE:** I used the FIFA World Cup dataset from Kaggle which contains 2 csv files. The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
+**NOTE:** I used the Financial Sample dataset from Microsoft which can be downloaded from Power BI Desktop.
 
 ## ✏️ **Steps**
 
