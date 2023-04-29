@@ -1,6 +1,6 @@
 # FinancialSampleAnalysis
 
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/FinancialSampleAnalysis)
+- [View the complete data analysis process](https://www.notion.so/sokratispapadopoulos/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=d67f250aac324f0583640c8a84accfef&pm=c)
 
 ## 📝 Project Task
 
