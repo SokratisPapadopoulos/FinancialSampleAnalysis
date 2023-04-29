@@ -33,6 +33,5 @@ In order to have a better analysis and more meaningful insights, i had to create
 - ###### Step 5.
 
 Created the visuals and delivered the final dashboard.
-
-
 Final Dashboard
+![FinalDashboard](https://user-images.githubusercontent.com/122797480/235313216-353ad1e8-56af-4959-bf0f-c574e9fb8bb6.png)
