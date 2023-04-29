@@ -28,7 +28,7 @@ Created all the measures I needed and hosted them in a new disconnected table wh
 
 - ###### Step 4.
 
-In order to have a better analysis and more meaningful insights, i had to create a date table and connected it with my primary table.
+In order to have a better analysis and more meaningful insights, i had to create a date table and connected it with my primary table which named it Calendar.
 
 - ###### Step 5.
 
